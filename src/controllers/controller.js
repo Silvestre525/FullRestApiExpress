@@ -11,8 +11,8 @@ const controller = {
         res.send('Actualizando Empleados');
     },
     deleteEmpleados:(req,res)=>{
-        res.send('Eliminando Empleados');
-    }
+        res.send('Eliminando Empleados o Empleadas');
+    } 
 
 }
 
